@@ -7,9 +7,10 @@ This repo is a modernized companion to my CodeSandbox submission and runs locall
 - **CodeSandbox Project:** https://codesandbox.io/p/devbox/mightybyte-react-react-native-challenge-forked-md9kgg
 
 > **Disclaimer**
-> This is an educational demo that mimics parts of YouTube’s UI for a coding challenge.
+> This app is a non-commercial frontend coding challenge demo that mimics parts of YouTube’s UI.
 > Not affiliated with YouTube or Google. “YouTube” and the play logo are trademarks of Google LLC.
-> Logo in screenshots is from Wikimedia Commons and used only for referential purposes.
+> The running demo uses the Wikimedia-hosted wordmark solely for visual parity in this challenge.
+> If requested, I will replace it with a neutral icon immediately.
 
 ## Stack
 
