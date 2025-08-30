@@ -1,0 +1,74 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# package managers & caches
+.npm/
+.pnpm-store/
+.pnp.cjs
+.pnp.loader.mjs
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/build/
+android/app/release/
+android/app/debug/
+ios/build/
+ios/DerivedData/
+ios/Pods/
+!ios/Podfile
+!ios/Podfile.lock
+*.xcuserstate
+*.xcuserdatad/
+
+# Metro
+.metro-health-check*
+.metro/
+packager-info.json
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+pnpm-debug.log*
+expo-error.log
+
+# macOS
+.DS_Store
+*.pem
+
+# Windows
+Thumbs.db
+
+# Editors/IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.iml
+
+# local env files
+.env
+.env*.local
+.env.*
+!.env.example
+app.config.local.*
+
+# typescript
+*.tsbuildinfo
