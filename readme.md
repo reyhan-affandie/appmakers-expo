@@ -6,7 +6,7 @@ This repo is a modernized companion to my CodeSandbox submission and runs locall
 - **Live Demo (CodeSandbox):** https://md9kgg.csb.app/
 - **CodeSandbox Project:** https://codesandbox.io/p/devbox/mightybyte-react-react-native-challenge-forked-md9kgg
 
-**Disclaimer**
+## Disclaimer
 
 - This app is a non-commercial frontend coding challenge demo that mimics parts of YouTube’s UI.
 - Not affiliated with YouTube or Google. “YouTube” and the play logo are trademarks of Google LLC.
